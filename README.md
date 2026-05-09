@@ -114,15 +114,11 @@ server_socket.close()
 
 ## OUTPUT:
 ### CLIENT:
-<img width="1920" height="1200" alt="Screenshot 2026-04-25 144423" src="https://github.com/user-attachments/assets/a1365e6c-a0bf-4fa6-92cf-1d3e3fc8a9a1" />
-
-
+![image](https://github.com/user-attachments/assets/017a5300-51e3-40ef-8f6e-4a7fd236a88d)
 
 
 ### SERVER:
-<img width="1920" height="1200" alt="Screenshot 2026-04-25 144438" src="https://github.com/user-attachments/assets/0dba8b7f-e02d-4f7c-b3ff-5c3877edae74" />
-
-
+![image-1](https://github.com/user-attachments/assets/b7d457ba-8f9c-43c3-84c7-1b7f6eecd1b0)
 
 
 
